@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tami's Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+    header { background: #333; color: #fff; padding: 1rem 0; text-align: center; }
+    nav ul { list-style: none; padding: 0; }
+    nav ul li { display: inline; margin: 0 10px; }
+    nav ul li a { color: #fff; text-decoration: none; }
+    section { padding: 2rem; }
+    h1 { color: #333; }
+    .project { margin-bottom: 2rem; }
+    .project img { max-width: 100%; height: auto; }
+    form { display: flex; flex-direction: column; }
+    form label { margin-top: 1rem; }
+    form input, form textarea, form button { margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tami's Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="about">
+    <h1>About Me</h1>
+    <p>Hi, I'm Tami! I'm a graphic designer with a passion for typography and a keen eye for detail. With a background in family and consumer sciences, I bring a unique perspective to my work, blending creativity with a deep understanding of human growth and development. I'm also a thrift queen who loves sustainable fashion and discovering unique pieces that make every outfit pop. Let's create something fabulous together!</p>
+  </section>
+  <section id="portfolio">
+    <h1>Portfolio</h1>
+    <div class="project">
+      <h2>Burning Shore Concert Flyer for the Week of “Bicycle Day”</h2>
+      <img src="94E90895-9982-49CF-A683-F28D71F3F6E5.jpeg" alt="Burning Shore Concert Flyer for the Week of “Bicycle Day”">
+      <p>This flyer was designed to promote the Burning Shore concert during the week of "Bicycle Day," celebrating a notable event in psychedelic history. The design was inspired by psychedelic art, incorporating vibrant colors and surreal elements. Key elements include a skeleton riding a bicycle, a cathedral in the background, and vintage-inspired typography. Created using Adobe Illustrator and Photoshop, the flyer successfully attracted attention and conveyed the festive, psychedelic theme of the concert week.</p>
+    </div>
+    <div class="project">
+      <h2>CJ Wolfe & Friends Event Poster 1</h2>
+      <img src="BBAA7879-BD7F-4A06-8E65-A8F8A0343CBB.jpeg" alt="CJ Wolfe & Friends Event Poster 1">
+      <p>This poster was created to promote a weekly music gig by CJ Wolfe & Friends every Saturday at Disco Market on Decatur during Pride Week. Inspired by the vibrant and festive atmosphere of Pride Week and the nearby Cajun Tomato Festival, the design features a colorful wolf character playing drums, a disco ball, and festive decorations. The poster effectively communicated the fun, lively nature of the event and drew significant attention from potential attendees.</p>
+    </div>
+    <div class="project">
+      <h2>Burning Shore Event Poster 2</h2>
+      <img src="DD1400F7-CE1A-4A0A-9BCA-BE8FBFB91DCB.jpeg" alt="Burning Shore Event Poster 2">
+      <p>This poster continued the skeleton theme established after Bicycle Day and was designed for the Burning Shore concert. It incorporates vibrant and surreal elements, including skeletons, the New Orleans cathedral, and UFOs, with bold, vintage-inspired typography. The design was adapted for Instagram posts, stories, and 4x6 printouts, effectively maintaining visual interest and promoting the weekly concert.</p>
+    </div>
+    <div class="project">
+      <h2>CJ Wolfe & Friends Event Poster 2</h2>
+      <img src="📸 @Petewallace - 5.jpeg" alt="CJ Wolfe & Friends Event Poster 2">
+      <p>This poster promoted CJ Wolfe & Friends' first gig at Disco Market, carrying on the skeleton theme. It features skeleton musicians playing instruments and includes hand-drawn (digitally) sneakers that match CJ Wolfe's actual sneakers. The design, created using Procreate and Photoshop, effectively engaged the audience and added a personal touch with the detailed sneakers.</p>
+    </div>
+    <div class="project">
+      <h2>Atom Bums Poster</h2>
+      <img src="📸 @Petewallace - 4.jpeg" alt="Atom Bums Poster">
+      <p>This poster was created as a fun, quick promotional piece for the band Atom Bums. Inspired by retro sci-fi and pin-up art, it features four women in retro-style swimsuits against a backdrop of colorful planets and stars. The poster effectively captured the playful and nostalgic theme, successfully promoting the band.</p>
+    </div>
+    <div class="project">
+      <h2>Just Don't Miss a Year Poster</h2>
+      <img src="📸 @Petewallace - 6.jpeg" alt="Just Don't Miss a Year Poster">
+      <p>This poster was part of the "Happy Birthday Trey Anastasio Fundraiser" (HBDTA) to help raise money for Phish's charity, Waterwheel, during their "Dinner and a Movie" live stream series. The design celebrated the lead singer's birthday and aimed to maintain social media awareness and donations. Created using Adobe Illustrator and Photoshop, it successfully raised social media awareness and contributed to the successful fundraising effort.</p>
+    </div>
+    <div class="project">
+      <h2>Shock Trey's Brain Poster</h2>
+      <img src="📸 @Petewallace - 7.jpeg" alt="Shock Trey's Brain Poster">
+      <p>This poster was also part of the HBDTA project, aimed at maintaining donation momentum for Waterwheel. Featuring vibrant, psychedelic patterns and musical notes, the design effectively captured attention and contributed to the successful fundraising effort. Created using Adobe Illustrator and Photoshop, it received positive feedback for its creativity and vibrant design.</p>
+    </div>
+    <div class="project">
+      <h2>Birthday Fundraiser Poster 1</h2>
+      <img src="📸 @Petewallace - 8.jpeg" alt="Birthday Fundraiser Poster 1">
+      <p>This poster promoted the birthday fundraiser event during Phish's "Dinner and a Movie" live stream series. Featuring festive decorations, musical instruments, and celebratory typography, the design aimed to create a festive atmosphere and draw attention to the charity event. Created using Adobe Illustrator and Photoshop, it successfully raised social media awareness and contributed to the successful fundraising effort.</p>
+    </div>
+    <div class="project">
+      <h2>Our Plan is Simple Poster</h2>
+      <img src="📸 @Petewallace - 9.jpeg" alt="Our Plan is Simple Poster">
+      <p>This poster was part of the HBDTA project, aimed at maintaining donation momentum for Waterwheel. Featuring a simple yet impactful design with clear typography and relevant imagery, it effectively communicated the fundraising effort and contributed to the successful campaign. Created using Adobe Illustrator and Photoshop, it received positive feedback for its clarity and effectiveness.</p>
+    </div>
+    <div class="project">
+      <h2>HBD Poster</h2>
+      <img src="📸 @Petewallace - 10.jpeg" alt="HBD Poster">
+      <p>This poster promoted the birthday fundraiser event during Phish's "Dinner and a Movie" live stream series. Featuring birthday decorations, festive typography, and engaging visuals, the design aimed to create a celebratory atmosphere and encourage donations. Created using Adobe Illustrator and Photoshop, it successfully raised social media awareness and contributed to the successful fundraising effort.</p>
+    </div>
+  </section>
+  <section id="contact">
+    <h1>Contact</h1>
+    <p>Feel free to reach out to me for any graphic design projects or collaborations.</p>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>Follow me on social media:</p>
+    <ul>
+      <li><a href="https://instagram.com/yourprofile">Instagram</a></li>
+      <li><a href="https://
